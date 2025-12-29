@@ -72,6 +72,7 @@ This project helps you understand:
 - How modifiers protect contract logic
 - How events communicate changes
 - How to structure clean and readable Solidity code
+  
 It is an ideal stepping stone before learning:
 - mapping
 - msg.sender
