@@ -87,7 +87,7 @@ It is an ideal stepping stone before learning:
 - ✨ Build a frontend to read events
 
 📜 License
-This project is licensed under the LGPL-3.0-only license.
+- This project is licensed under the LGPL-3.0-only license.
 
 💡 If you are learning Solidity, this project is a great foundation to build confidence before moving on to real-world smart contracts.
 Happy coding! 🔥
