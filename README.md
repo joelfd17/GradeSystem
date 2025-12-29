@@ -26,7 +26,7 @@ Its goal is to strengthen the fundamentals before moving on to more complex smar
 🔹 State Variable
 The contract contains a single state variable:
 - int256 public nota = 5;
-This variable represents the current grade.
+- This variable represents the current grade.
 It is initialized with a default value of 5 and can be read publicly.
 
 🔹 Modifiers
@@ -55,7 +55,7 @@ Each function updates the state safely and emits the appropriate events.
 The contract uses internal pure functions to handle arithmetic operations:
 - function sumar_logic(int256 a_, int256 b_) internal pure returns (int256)
 - function restar_logic(int256 a_, int256 b_) internal pure returns (int256)
-This separation improves readability and mirrors real-world smart contract design practices.
+- This separation improves readability and mirrors real-world smart contract design practices.
 
 
 🚀 How to Use (Quick Start)
