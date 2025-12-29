@@ -13,12 +13,12 @@ Its goal is to strengthen the fundamentals before moving on to more complex smar
 - Remix IDE (recommended for deployment and testing)
 
 📦 Features
-✅ Stores a grade on-chain
-✅ Ensures the grade stays between 0 and 10
-✅ Adds and subtracts points safely
-✅ Uses modifiers for validation
-✅ Emits events for every state change
-✅ Separates logic using internal pure functions
+- ✅ Stores a grade on-chain
+- ✅ Ensures the grade stays between 0 and 10
+- ✅ Adds and subtracts points safely
+- ✅ Uses modifiers for validation
+- ✅ Emits events for every state change
+- ✅ Separates logic using internal pure functions
 
 
 📄 Smart Contract Explanation
@@ -79,11 +79,11 @@ It is an ideal stepping stone before learning:
 - ERC standards
 
 🧠 Possible Improvements
-✨ Add custom errors
-✨ Implement a reset function
-✨ Track grades per user using mapping
-✨ Add access control
-✨ Build a frontend to read events
+- ✨ Add custom errors
+- ✨ Implement a reset function
+- ✨ Track grades per user using mapping
+- ✨ Add access control
+- ✨ Build a frontend to read events
 
 📜 License
 This project is licensed under the LGPL-3.0-only license.
