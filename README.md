@@ -1,4 +1,4 @@
-🎓 Grade System Smart Contract (SistemaNotas)
+🎓 Grade System Smart Contract 
 - A simple and educational Solidity smart contract that simulates a grade management system.
 - This project is designed for beginners who want to practice core Solidity concepts such as state variables, modifiers, events, and internal logic separation.
 
